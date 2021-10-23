@@ -1,4 +1,3 @@
-# BattleShip-Board-Game
 Battleship-Board-Game
 
 Steps to run this program:
@@ -11,4 +10,4 @@ If run on IDE:
 If run on cmd:
 1. Compile both Server.java and BattleshipGameGUI.java
 2. Run the Server first
-3. Run the two BattleshipGameGUI by entering: java BattleshipGameGUI <server_address>
+3. Run the BattleshipGameGUI by entering: java BattleshipGameGUI <server_address>
